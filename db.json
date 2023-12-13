@@ -12,7 +12,7 @@
             "id": 1
         },
         {
-            "img": "https://m.media-amazon.com/images/I/6125yAfsJKL._AC_UX575_.jpg",
+            "img": "https://th.bing.com/th/id/R.caea8aef70261781b0454738762336a0?rik=u%2bdzt8aXpgeCrg&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fwp1869823.jpg&ehk=TMnhu3xwkSiixWeNBbZr5%2ft9Ji%2fIAtvNJ1G68TOFVO0%3d&risl=1&pid=ImgRaw&r=0",
             "title": "Assassin's Creed Odyssey",
             "star": 4,
             "reviews": 123,
@@ -348,70 +348,12 @@
                 }
             ],
             "customerInfo": {
-                "fullname": "Khoa Nguyễn",
-                "mobile": "+1 (996) 449-4832",
-                "address": "28 Nguyễn Tri Phương, Phú Nhuận, TP Huế",
-                "email": "nguyenhuuanhkhoa@gmail.com"
+                "fullname": "Cristiano Ronaldo",
+                "mobile": "+6 (996) 696-3535",
+                "address": "49/53 Dubai",
+                "email": "gmail@ronaldo.com"
             },
             "id": 1
-        },
-        {
-            "orderId": "7f58496a-52d2-445f-8037-4025b32b093d",
-            "orderInfo": {
-                "subTotal": 1080,
-                "shipping": 0,
-                "total": 1080,
-                "status": "draft",
-                "orderDate": 1701266026000
-            },
-            "orderDetails": [
-                {
-                    "img": "https://cdn.mos.cms.futurecdn.net/QkTfFVLvH63vDbASUm75mJ-1200-80.jpg.webp",
-                    "title": "Resident Evil 4",
-                    "star": 4,
-                    "reviews": 123,
-                    "prevPrice": "20",
-                    "newPrice": "40",
-                    "company": "Sony",
-                    "category": "Action",
-                    "id": 11,
-                    "quantity": 2,
-                    "amount": 80
-                },
-                {
-                    "img": "https://cdn.mos.cms.futurecdn.net/mqAVUATuiEnmQN9S7fJ2YF-1200-80.jpg.webp",
-        "title": "The Witcher 3: Wild Hunt",
-        "star": 4,
-        "reviews": 123,
-        "prevPrice": "140",
-        "newPrice": "200",
-        "company": "Nintendo",
-        "category": "RPG",
-        "id": 12,
-                    "quantity": 3,
-                    "amount": 600
-                },
-                {
-                    "img": "https://cdn.mos.cms.futurecdn.net/4HAeqEPvRBEfA2EFGMTmpd-1200-80.jpg.webp",
-        "title": "The Elder Scrolls 5: Skyrim ",
-        "star": 4,
-        "reviews": 123,
-        "prevPrice": "140",
-        "newPrice": "200",
-        "company": "EA",
-        "category": "Simulation",
-        "id": 13,
-                    "quantity": 2,
-                    "amount": 400
-                }
-            ],
-            "customerInfo": {
-                "fullname": "Baker Madden",
-                "mobile": "+1 (545) 593-6703",
-                "address": "176 Trần Phú, Trường An, TP Huế",
-                "email": "Nova.Gleichner61@yahoo.com"
-            },
-            "id": 2
         }
     ]
 }
